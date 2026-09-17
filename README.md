@@ -1,0 +1,2 @@
+# APROVACAO-DE-PROPOSTAS-DE-ESTEIRA
+Automação desenvolvida em Python para agilizar o processo de aprovação de propostas em uma esteira de negociação. A aplicação lê uma planilha Excel com os números das propostas, consulta cada registro no sistema web e realiza automaticamente a aprovação das propostas que estiverem na fila “CONFERE LASTRO”, direcionando-as para “ENVIA PAGAMENTO”.
